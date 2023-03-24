@@ -25,4 +25,6 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ![Example](Screenshot%202023-03-24%20153025.png)
 
- [Heroku Live URL]()
+[GitHub URL](https://github.com/trizziehuynh/Note-Taker)
+
+[Heroku Live URL]()
